@@ -1,1 +1,6 @@
-
+<Version: 1.01>
+/data/Map032.json https://raw.githubusercontent.com/RememberBeingBorn/Diagonal-Nooby/master/Map032.json
+/data/Map025.json https://raw.githubusercontent.com/RememberBeingBorn/Diagonal-Nooby/master/Map025.json
+/data/CommonEvents.json https://raw.githubusercontent.com/RememberBeingBorn/Diagonal-Nooby/master/CommonEvents.json
+/data/System.json https://raw.githubusercontent.com/RememberBeingBorn/Diagonal-Nooby/master/System.json
+<End of Version>
