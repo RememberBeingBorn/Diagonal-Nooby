@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=lSToG7hAh_8",
+        "name": "You're Mine",
+        "artist": "DAGames",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=NeI-1Aq5CJw",
+        "name": "Revenge",
+        "artist": "CaptainSparklez",
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw",
+        "name": "Megalovania",
+        "artist": "Toby Fox",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=I-sH53vXP2A",
+        "name": "Fallen Kingdom",
+        "artist": "CaptainSparklez",
+        "soundId": "sound.mcdisc.4"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=OrIPF-t5ewE",
+        "name": "Take Back the Night",
+        "artist": "CaptainSparklez",
+        "soundId": "sound.mcdisc.4"
+    }
+]
